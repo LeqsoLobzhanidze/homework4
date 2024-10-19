@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.todo-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 5px;
+  width: 200px;
+  margin-right: 10px;
+  background-color: bisque ;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: bisque;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+.ToggleButton{
+  margin-left: 200px;
+  background-color: bisque;
+}

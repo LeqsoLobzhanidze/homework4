@@ -1,0 +1,11 @@
+.card{
+    border: 2px solid rgb(14, 30, 14);
+    width: 600px;
+    border-radius: 10px;
+  }
+  .card h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .card h2{
+    font-family: monospace;
+  }
